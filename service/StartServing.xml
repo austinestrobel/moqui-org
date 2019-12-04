@@ -1,5 +1,7 @@
 <services>
-
+<!-- TODO missing arrows on drop down -->
+<!-- TODO change formatting of form -->
+<!-- TODO remove comments from start serving html page -->
     <service verb="create" noun="Request" authenticate="anonymous-all">
         <in-parameters>
             <!-- Create person -->
